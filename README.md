@@ -1,2 +1,3 @@
-# mySwiftCode
+# My Swift learning
 This will have all my swift learning checked in
+Planning to learn Python and Swift this summer...
